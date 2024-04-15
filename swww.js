@@ -146,4 +146,4 @@ chrome.runtime.onMessage.addListener(async function (msg, sender, respondWith) {
         await stop();
         respondWith({ status: 'success' });
     }
-});
+})
