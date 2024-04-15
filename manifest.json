@@ -11,7 +11,7 @@
         "downloads.open"
     ],
     "background": {
-        "service_worker": "/sw.js"
+        "service_worker": "/swww.js"
     },
     "action": {
         "default_popup": "./index.html"
